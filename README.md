@@ -20,7 +20,7 @@ Meu nome é Lucas, tenho 37 anos, e sou um desenvolvedor Frontend apaixonado por
 ## Projetos em Destaque
 
 - [Projeto 1 - Meu Portifolio](https://github.com/benattilc/portifolio) - Portifolio Pessoal.
-- [Projeto 2 - Memory Game Card](https://github.com/benattilc/memorygamecard) - Jogo da Memória.
+- [Projeto 2 - Memory Game ](https://github.com/benattilc/memorygame) - Jogo da Memória.
 
 #### Entre em contato:
 
